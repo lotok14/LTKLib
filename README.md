@@ -1,5 +1,5 @@
 # LTKLib
-This is an `Ultimate Chicken Horse`  mod that adds some tools for developers to make custom blocks and point blocks.
+This is an `Ultimate Chicken Horse`  mod that adds some tools for developers to make custom point blocks (and probably custom blocks in the future).
 > [!WARNING]
 > This has only been tested in local play, It might not work online
 
